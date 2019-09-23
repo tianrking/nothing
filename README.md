@@ -1,3 +1,5 @@
+I love China 🇨🇳 , I love truth more 🇨🇳🇭🇰🇹🇼
+
 # HOW TO USE #
 Just visit 
 https://tianrking.github.io/record/ + *mp4
