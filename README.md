@@ -1,5 +1,6 @@
-- I love **China** 🇨🇳 , I love **truth** more 🇨🇳🇭🇰🇹🇼
-- WE are FAMILY , not ENEMY
+- I love **China** 🇨🇳 , I love **Truth** more 🇨🇳🇭🇰🇹🇼
+- WE ARE **FAMILY** , NOT **ENEMY**
+- Democracy Freedom
 
 # HOW TO USE #
 Just visit 
