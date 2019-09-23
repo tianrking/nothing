@@ -1,4 +1,5 @@
 I love China 🇨🇳 , I love truth more 🇨🇳🇭🇰🇹🇼
+WE are FAMILY , not ENEMY
 
 # HOW TO USE #
 Just visit 
