@@ -7,4 +7,4 @@ Watch hold the umbrella,click the link
 https://tianrking.github.io/record/cqys.mp4
 
 ## Quick link list here ##
-<a href="https://github.com/tianrking/record/blob/master/LINK.md">Link.md</a>
+<a href="https://github.com/tianrking/record/blob/master/link/LINK.md">Link.md</a>
