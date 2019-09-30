@@ -1,3 +1,4 @@
+```html
 <head>
   <link href="https://vjs.zencdn.net/7.6.5/video-js.css" rel="stylesheet">
 
@@ -18,3 +19,4 @@
 
   <script src='https://vjs.zencdn.net/7.6.5/video.js'></script>
 </body>
+```
